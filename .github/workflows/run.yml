@@ -1,8 +1,7 @@
 name: 刷步数
 
 on:
-  schedule:
-    - cron: ''
+  schedule: 
   workflow_dispatch:
 
 jobs:
